@@ -1,14 +1,17 @@
 # A-TWOSOME-PLACE
 
 기존 투썸플레이스 홈페이지를 리뉴얼한 웹페이지입니다.<br>
-3명(디자인 1명 & 퍼블리싱 2명)이 팀을 이루어서 제작했으며,<br>
-슬랙을 사용하여 파일을 업로드하고 피드백 받는 방식으로 협업했습니다.<br>
+3명(디자인 1명 & 퍼블리싱 2명)이 팀을 이루어서 제작했으며<br>
+![slack](https://user-images.githubusercontent.com/74514595/113406546-9cf51280-93e6-11eb-9f6c-85418822adc0.png)
+ 슬랙을 사용하여 파일을 업로드하고 피드백 받는 방식으로 협업했습니다.<br>
 - [투썸플레이스 홈페이지](https://www.twosome.co.kr:7009/main.asp)
 - 투썸플레이스 리뉴얼 페이지
-###### *리뉴얼 페이지는 구글 크롬 브라우저에 최적화되어 있습니다.* ######
+###### * *리뉴얼 페이지는 구글 크롬 브라우저에 최적화되어 있습니다.* ######
 
 <h2>메인 페이지</h2>
 <h4>1. Swiper 플러그인을 사용하여 이미지가 슬라이드 되도록 작업했습니다.</h4>
+
+![slide](https://user-images.githubusercontent.com/74514595/113393027-0407cc80-93d1-11eb-86ed-c28e3f20c531.jpg)
     
     var swiper = new Swiper('.mainVisual .swiper-container', {
         slidesPerView: 1,
@@ -25,9 +28,11 @@
             clickable: true,
         },
     });
-    
+
 <h4>2. GNB에 마우스를 올리면 2depth가 나타납니다.</h4>
-    
+
+![GNB](https://user-images.githubusercontent.com/74514595/113394803-db350680-93d3-11eb-9b9d-9dc3e13c9873.jpg)
+   
     var dep1 = $('#header .wrapper #gnb > li'),
         dep2 = $('#header .wrapper #gnb > li > .dep2'),
         gnbNum = -1;
@@ -38,6 +43,7 @@
             $(this).stop().eq(gnbNum).children('.dep2').fadeIn(300, function () {
                 $(this).stop().siblings('a').addClass('active');
             });
+
         });
         dep1.mouseleave(function () {
             gnbNum = i;
@@ -45,18 +51,12 @@
                 $(this).stop().siblings('a').removeClass('active');
             });
         });
-   
-   <h4>3. 우측 사이드에 위치한 퀵 메뉴는 페이지의 중간부터 나타나고 사라지도록 구현했습니다.</h4>
-    
-    $(window).scroll(function () {
-        var scroll_height = $(document).scrollTop();
-        if (1334 <= scroll_height) {
-            $(".btn-area").fadeIn();
-        } else {
-            $(".btn-area").fadeOut();
-        }
     });
-    
+   
+ <h4>3. 우측에 퀵 메뉴를 배치했으며 상단으로 자동 스크롤되는 버튼을 넣었습니다.</h4>
+   
+![btn](https://user-images.githubusercontent.com/74514595/113395235-804fdf00-93d4-11eb-975c-bd882866ed12.jpg)
+
     $('.top-bt').click(function () {
         $('html, body').animate({
             scrollTop: 0
@@ -66,6 +66,8 @@
     
 <h2>서브 페이지</h2>
 <h4> 1. NEW MENU : 제품을 클릭하면 상세설명과 영양성분표가 나타나도록 구현했습니다.</h4>
+
+![menu](https://user-images.githubusercontent.com/74514595/113396553-a9716f00-93d6-11eb-82dc-0da1a6070393.jpg)
 
     1. detail 에 display:none 을 적용하여 첫 화면에 a 태그의 내용이 보이도록 구현했습니다.
         <li>
