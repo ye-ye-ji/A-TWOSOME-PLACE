@@ -120,5 +120,23 @@
 
 ![map](https://user-images.githubusercontent.com/74514595/113502525-c7baa480-9567-11eb-9715-dea75641fa21.jpg)
 
+     new daum.roughmap.Lander({
+                 "timestamp": "1615100862526",
+                 "key": "24pxw",
+                 "mapWidth": "1180",
+                 "mapHeight": "700"
+             }).render();
+
+#### 3. [리뉴얼 페이지](http://yeji-jung.com/project/twosome/common/reword/reword.html) 에 방문하여 투썸 리워드, 진행중인 이벤트와 상세페이지를 살펴보세요. ####
+
+![reword](https://user-images.githubusercontent.com/74514595/113504271-fb9ac780-9571-11eb-9ec9-79ad6aef5730.jpg)
+
+
+<h2>마무리</h2>
+
+
+
+
+
 
 
