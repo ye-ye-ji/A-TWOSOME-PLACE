@@ -31,8 +31,7 @@
 
 <h4>2. GNB에 마우스를 올리면 2depth가 나타납니다.</h4>
 
-![map](https://user-images.githubusercontent.com/74514595/113502541-e751cd00-9567-11eb-95f9-a8850659a6e8.jpg)
-
+![GNB](https://user-images.githubusercontent.com/74514595/113502650-968ea400-9568-11eb-99e0-c1f371f284af.jpg)
    
     var dep1 = $('#header .wrapper #gnb > li'),
         dep2 = $('#header .wrapper #gnb > li > .dep2'),
