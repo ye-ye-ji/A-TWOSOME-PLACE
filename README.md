@@ -127,7 +127,7 @@
                  "mapHeight": "700"
              }).render();
 
-#### 3. [리뉴얼 페이지](http://yeji-jung.com/project/twosome/common/reword/reword.html) 에 방문하여 투썸 리워드, 진행중인 이벤트와 상세페이지를 살펴보세요. ####
+#### 3.  해당 페이지를 선택하시면 [투썸 리워드](http://yeji-jung.com/project/twosome/common/reword/reword.html), [진행중인 이벤트](http://yeji-jung.com/project/twosome/common/reword/reword.html)와 [상세페이지](http://yeji-jung.com/project/twosome/common/reword/reword.html)를 살펴보실 수 있습니다. ####
 
 ![reword](https://user-images.githubusercontent.com/74514595/113504271-fb9ac780-9571-11eb-9ec9-79ad6aef5730.jpg)
 
