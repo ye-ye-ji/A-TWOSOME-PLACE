@@ -31,7 +31,8 @@
 
 <h4>2. GNB에 마우스를 올리면 2depth가 나타납니다.</h4>
 
-![GNB](https://user-images.githubusercontent.com/74514595/113394803-db350680-93d3-11eb-9b9d-9dc3e13c9873.jpg)
+![map](https://user-images.githubusercontent.com/74514595/113502541-e751cd00-9567-11eb-95f9-a8850659a6e8.jpg)
+
    
     var dep1 = $('#header .wrapper #gnb > li'),
         dep2 = $('#header .wrapper #gnb > li > .dep2'),
@@ -117,5 +118,9 @@
             });
         });
 
-<h4> 2. 매장찾기 : 제품을 클릭하면 상세설명과 영양성분표가 나타나도록 구현했습니다.</h4>
+<h4> 2. 매장찾기 : 카카오 지도 API를 사용했습니다.</h4>
+
+![map](https://user-images.githubusercontent.com/74514595/113502525-c7baa480-9567-11eb-9715-dea75641fa21.jpg)
+
+
 
