@@ -4,7 +4,8 @@
 3명(디자인 1명 & 퍼블리싱 2명)이 팀을 이루어서 제작했으며<br>
  슬랙을 사용하여 파일을 업로드하고 피드백 받는 방식으로 협업했습니다.<br>
 - [투썸플레이스 홈페이지](https://www.twosome.co.kr:7009/main.asp)
-- 투썸플레이스 리뉴얼 페이지
+- [투썸플레이스 리뉴얼 페이지](http://yeji-jung.com/project/twosome/common/main/index.html)
+
 ###### * *리뉴얼 페이지는 구글 크롬 브라우저에 최적화되어 있습니다.* ######
 
 <h2>메인 페이지</h2>
@@ -64,7 +65,7 @@
     });
     
 <h2>서브 페이지</h2>
-<h4> NEW MENU : 제품을 클릭하면 상세설명과 영양성분표가 나타나도록 구현했습니다.</h4>
+<h4> 1. NEW MENU : 제품을 클릭하면 상세설명과 영양성분표가 나타나도록 구현했습니다.</h4>
 
 ![menu](https://user-images.githubusercontent.com/74514595/113396553-a9716f00-93d6-11eb-82dc-0da1a6070393.jpg)
 
@@ -116,18 +117,8 @@
             });
         });
 
-#### 3. [매장찾기](http://yeji-jung.com/project/twosome/common/reword/reword.html), [투썸 리워드](http://yeji-jung.com/project/twosome/common/reword/reword.html), [진행중인 이벤트](http://yeji-jung.com/project/twosome/common/sub-menu/event/eventList.html)를 살펴보세요. ####
+#### 2. [매장찾기](http://yeji-jung.com/project/twosome/common/store/store.html), [투썸 리워드](http://yeji-jung.com/project/twosome/common/reword/reword.html), [진행중인 이벤트](http://yeji-jung.com/project/twosome/common/sub-menu/event/eventList.html) 페이지에 방문해보세요. ####
 
 ![map](https://user-images.githubusercontent.com/74514595/113502525-c7baa480-9567-11eb-9715-dea75641fa21.jpg)
 
 ![reword](https://user-images.githubusercontent.com/74514595/113504271-fb9ac780-9571-11eb-9ec9-79ad6aef5730.jpg)
-
-
-<h2>마무리</h2>
-
-
-
-
-
-
-
