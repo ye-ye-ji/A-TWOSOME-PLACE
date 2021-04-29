@@ -117,7 +117,7 @@
             });
         });
 
-#### 2. [매장찾기](http://yeji-jung.com/project/twosome/common/store/store.html), [투썸 리워드](http://yeji-jung.com/project/twosome/common/reword/reword.html), [진행중인 이벤트](http://yeji-jung.com/project/twosome/common/sub-menu/event/eventList.html) 페이지에 방문해보세요. ####
+#### 2. [매장찾기](http://yeji-jung.com/project/Twosome/common/store/store.html), [투썸 리워드](http://yeji-jung.com/project/Twosome/common/reword/reword.html), [진행중인 이벤트](http://yeji-jung.com/project/Twosome/common/sub-menu/event/eventList.html) 페이지에 방문해보세요. ####
 
 ![map](https://user-images.githubusercontent.com/74514595/113665507-8b628200-96e8-11eb-9e59-9eea7c31dac3.jpg)
 
