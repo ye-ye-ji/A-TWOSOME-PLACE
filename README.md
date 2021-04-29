@@ -4,7 +4,7 @@
 3명(디자인 1명 & 퍼블리싱 2명)이 팀을 이루어서 제작했으며<br>
  슬랙을 사용하여 파일을 업로드하고 피드백 받는 방식으로 협업했습니다.<br>
 - [투썸플레이스 홈페이지](https://www.twosome.co.kr:7009/main.asp)
-- [투썸플레이스 리뉴얼 페이지](http://yeji-jung.com/project/twosome/common/main/index.html)
+- [투썸플레이스 리뉴얼 페이지](http://yeji-jung.com/project/Twosome/common/main/index.html)
 
 ###### * *리뉴얼 페이지는 구글 크롬 브라우저에 최적화되어 있습니다.* ######
 
@@ -126,4 +126,4 @@
 ## 참고 사이트 ##
 Swiper : https://swiperjs.com/ 
 
-##### [리뉴얼 페이지](http://yeji-jung.com/project/twosome/common/main/index.html) 에 직접 방문해보세요. #####
+##### [리뉴얼 페이지](http://yeji-jung.com/project/Twosome/common/main/index.html) 에 직접 방문해보세요. #####
